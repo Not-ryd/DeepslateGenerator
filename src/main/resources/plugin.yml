@@ -1,0 +1,7 @@
+name: DeepslateGenerator
+version: '${version}'
+main: com.ryd.deepslategenerator.DeepslateGenerator
+api-version: '1.20'
+authors: [Ryd]
+description: "Generates cobbled deepslate/deepslate in place of cobblestone/stone when formed due to contact with water below a configured y-level, defaulted to 15."
+website: https://github.com/Not-ryd
